@@ -1,0 +1,24 @@
+.custom-fs{
+    font-size: 10em;
+}
+.fs-heading{
+    font-size: 5em;
+}
+@media(min-width:560px){
+   
+    .navabar{
+        width: 25%;
+        border-radius: 20px;
+    }
+    .cust-nav{
+        background-color: black;
+}}
+
+
+@media(max-width:580px){
+    .custom-fs{
+        font-size: 4em;
+    }
+  
+
+}
